@@ -106,7 +106,6 @@ Output: Top 20% of nodes driving 80% of traffic
 ## Files in This Repository
 
 - `pareto_analyser.py` — Main Python script *(uploading soon)*
-- `sample_logs/` — Sample log files for testing *(uploading soon)*
 - `README.md` — This file
 
 ---
